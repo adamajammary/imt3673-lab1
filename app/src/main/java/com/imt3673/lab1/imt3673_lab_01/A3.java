@@ -8,8 +8,6 @@ import android.widget.EditText;
 
 public class A3 extends AppCompatActivity {
 
-    public static final String MESSAGE_FROM_A3 = "message_from_a3";
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -24,7 +22,7 @@ public class A3 extends AppCompatActivity {
         EditText t4     = findViewById(R.id.T4);
         String   text   = t4.getText().toString();
 
-        intent.putExtra(MESSAGE_FROM_A3, text);
+        intent.putExtra(Constants.MESSAGE_FROM_A3, text);
 
         setResult(RESULT_OK, intent);
         finish();
