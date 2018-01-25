@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMT3673_Lab_01</string>
+    <string name="a1_button">A2</string>
+    <string name="a2_non_edit_text2">From A3: </string>
+    <string name="a2_button">A3</string>
+    <string name="a3_button">A2</string>
+    <string-array name="l1_items">
+        <item>Option #1</item>
+        <item>Option #2</item>
+        <item>Option #3</item>
+        <item>Option #4</item>
+    </string-array>
+</resources>
