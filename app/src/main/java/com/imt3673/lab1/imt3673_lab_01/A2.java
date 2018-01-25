@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
+/**
+ * Activity 2
+ */
 public class A2 extends AppCompatActivity {
 
     /**

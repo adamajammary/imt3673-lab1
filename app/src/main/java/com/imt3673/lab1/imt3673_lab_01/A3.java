@@ -6,6 +6,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
+/**
+ * Activity 3
+ */
 public class A3 extends AppCompatActivity {
 
     @Override

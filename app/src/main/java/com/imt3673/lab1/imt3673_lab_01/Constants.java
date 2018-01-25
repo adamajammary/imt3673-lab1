@@ -2,9 +2,7 @@ package com.imt3673.lab1.imt3673_lab_01;
 
 /**
  * Global constants
- * Created by admin on 25.01.2018.
  */
-
 public final class Constants {
 
     public static final String MESSAGE_FROM_A1       = "message_from_a1";

@@ -9,6 +9,9 @@ import android.widget.EditText;
 import android.widget.SeekBar;
 import android.widget.Spinner;
 
+/**
+ * Activity 1
+ */
 public class A1 extends AppCompatActivity {
 
     /**
