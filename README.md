@@ -1,9 +1,7 @@
 # imt3673-lab1
 IMT3673 Lab 1 (Android, Java)
 
-# Lab 01
-
-Create an application consisting of 3 activities. 
+## Create an application consisting of 3 activities
 
 ## The first, entry activity (A1), should have
 * editable text field (T1)
